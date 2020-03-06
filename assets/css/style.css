@@ -112,7 +112,7 @@ header div ul li {
 
 
 
-/*.benefits {
+.benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -125,12 +125,6 @@ header div ul li {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
- .benefit {
-    margin-bottom: 32px;
-    color: #ffffff;
-} */
-
 
 .benefit-lead {
     margin-bottom: 32px;
@@ -145,7 +139,7 @@ header div ul li {
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
-} */
+} 
 
 .benefit-lead h3 {
     margin-bottom: 10px;
